@@ -1,0 +1,21 @@
+{"books": [
+  {
+    "pages": 250,
+    "like": "bop it",
+    "author": "auth4",
+    "dislike": "twist it",
+    "genre": "horror",
+    "rating": 2,
+    "title": "fin2",
+    "isFinished": true,
+    "hasReview": true
+  },
+  {
+    "pages": 467,
+    "author": "auth3",
+    "genre": "sci-fi",
+    "title": "fin1",
+    "isFinished": true,
+    "hasReview": false
+  }
+]}

@@ -1,0 +1,21 @@
+{"books": [
+    {
+        "pages": 467,
+        "author": "auth3",
+        "genre": "sci-fi",
+        "title": "fin1",
+        "isFinished": true,
+        "hasReview": false
+    },
+    {
+        "pages": 250,
+        "like": "i like this",
+        "author": "auth4",
+        "dislike": "i hate this",
+        "genre": "horror",
+        "rating": 4,
+        "title": "fin2",
+        "isFinished": true,
+        "hasReview": true
+    }
+]}

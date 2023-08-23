@@ -1,0 +1,26 @@
+{"books": [
+    {
+        "pages": 432,
+        "author": "anthony doerr",
+        "genre": "historical fiction",
+        "title": "all the light we cannot see",
+        "isFinished": true,
+        "hasReview": false
+    },
+    {
+        "pages": 382,
+        "author": "margaret atwood",
+        "genre": "dystopian",
+        "title": "the handmaid's tale",
+        "isFinished": true,
+        "hasReview": false
+    },
+    {
+        "pages": 376,
+        "author": "ruta sepetys",
+        "genre": "historical fiction",
+        "title": "salt to the sea",
+        "isFinished": false,
+        "hasReview": false
+    }
+]}
